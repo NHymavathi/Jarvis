@@ -66,7 +66,7 @@ def wishings():
         speak("Good night madam")
 
 def commands():
-    command = st.text_input("💬 Type your command")
+    command = st.text_input("💬 Type your command", key="command_input")
     return command.lower() if command else ""
 
 if __name__ == "__main__":
