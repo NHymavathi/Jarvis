@@ -1,0 +1,3 @@
+# jarvis
+speech recognisation
+The **Jarvis Python Project** is an AI-based virtual assistant that can perform various tasks like voice recognition, opening applications, fetching weather updates, sending emails, playing music, and even automating web searches. It is inspired by J.A.R.V.I.S. from Iron Man and is typically built using **Python** with libraries like **speech recognition, pyttsx3 (text-to-speech), OpenAI API, and automation tools like pyautogui**. Advanced versions can integrate **machine learning, deep learning, and IoT** for smart home automation. Would you like help building one? 
