@@ -2,4 +2,6 @@ streamlit
 pyttsx3
 requests
 wikipedia
+gtts
+
 
